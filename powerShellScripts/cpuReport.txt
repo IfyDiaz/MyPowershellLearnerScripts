@@ -1,0 +1,69 @@
+
+ NPM(K)    PM(M)      WS(M)     CPU(s)      Id  SI ProcessName
+ ------    -----      -----     ------      --  -- -----------
+      0     0.00       0.69       5.35     538 538 acpid
+      0     0.00       6.89       6.68    1923 …42 at-spi2-registryd
+      0     0.00       5.91     118.74     881 881 bluetoothd
+      0     0.00     209.85      29.34   48695 …75 code
+      0     0.00     130.02      11.19   48731 …75 code
+      0     0.00     145.48      13.83   48732 …75 code
+      0     0.00      75.39      16.55   48758 …75 code
+      0     0.00     109.14      20.26   48868 …75 code
+      0     0.00     115.94       6.57   48669 …75 Code --gpu-preferences=WAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA…
+      0     0.00     140.15       7.47   48630 …75 code --unity-launch --enable-crashpad
+      0     0.00       6.50      13.93     548 548 dbus-daemon
+      0     0.00       5.49      15.10    1636 …36 dbus-daemon
+      0     0.00     719.15  16,329.91    2318 …75 firefox
+      0     0.00     287.26   3,644.85    1875 …75 gnome-shell
+      0     0.00      50.38      35.49   49127 …27 gnome-terminal-server
+      0     0.00      53.17      11.75    1680 …36 goa-daemon
+      0     0.00       8.60       6.37    2034 …34 gsd-sharing
+      0     0.00       6.25       5.79    1724 …24 gvfsd-metadata
+      0     0.00       8.39     112.72    1901 …75 ibus-daemon
+      0     0.00       6.94      32.06    2141 …75 ibus-engine-simple
+      0     0.00      26.16      20.39    1906 …75 ibus-extension-gtk3
+      0     0.00       5.95      15.44     853 853 iio-sensor-proxy
+      0     0.00       0.00      60.76     401   0 irq/152-iwlwifi
+      0     0.00       3.39       6.98     558 558 irqbalance
+      0     0.00     145.42     183.31    2604 …75 Isolated Web Co
+      0     0.00     358.11   3,212.79    3895 …75 Isolated Web Co
+      0     0.00     126.35      37.09   10620 …75 Isolated Web Co
+      0     0.00     400.09     337.65   10770 …75 Isolated Web Co
+      0     0.00     461.94     350.82   12203 …75 Isolated Web Co
+      0     0.00     401.58   2,617.87   13443 …75 Isolated Web Co
+      0     0.00     171.14     301.79   13722 …75 Isolated Web Co
+      0     0.00     183.72      96.54   21789 …75 Isolated Web Co
+      0     0.00     177.15      76.09   37163 …75 Isolated Web Co
+      0     0.00     168.58     101.06   39332 …75 Isolated Web Co
+      0     0.00     151.98      20.35   46196 …75 Isolated Web Co
+      0     0.00     114.73      11.26   46308 …75 Isolated Web Co
+      0     0.00     111.80      13.66   46483 …75 Isolated Web Co
+      0     0.00     152.64      21.74   46687 …75 Isolated Web Co
+      0     0.00     232.69      55.13   49838 …75 Isolated Web Co
+      0     0.00       0.00       7.93     218   0 jbd2/nvme0n1p2-
+      0     0.00       0.00       5.78      18   0 ksoftirqd/1
+      0     0.00       0.00       7.39     104   0 kswapd0
+      0     0.00       0.00       5.85   15838   0 kworker/0:2H-events_highpri
+      0     0.00       0.00      13.99   50224   0 kworker/1:0-events
+      0     0.00       0.00      16.75   44042   0 kworker/u8:1-events_unbound
+      0     0.00       0.00       8.69   49454   0 kworker/u8:2-events_unbound
+      0     0.02      18.45      71.70     549 549 NetworkManager
+      0     0.00      11.23       5.10     564 564 polkitd
+      0     0.00     139.25      21.19    2493 …75 Privileged Cont
+      0     0.00      18.79   1,960.09    1632 …32 pulseaudio
+      0     0.00     105.04       6.03   48954 …54 pwsh
+      0     0.00     120.87       5.41   51716 …37 pwsh
+      0     0.00       0.00      75.68      10   0 rcu_sched
+      0     0.00     182.31   5,682.06    2891 …75 RDD Process
+      0     0.00       4.26       7.75    3986 …75 sd_dummy
+      0     0.00       6.20       7.80    3993 …75 sd_espeak-ng
+      0     0.00       3.86       7.78    3989 …75 sd_generic
+      0     0.11      22.80      12.37     581 581 snapd
+      0     0.06       9.51     113.25       1   1 systemd
+      0     0.43      11.02      24.04     482 482 systemd-resolved
+      0     0.23      27.49      35.36    1634 …34 tracker-miner-fs
+      0     0.00       9.52       7.86    1183 …83 upowerd
+      0     0.00      47.14     656.95    2935 …75 Utility Process
+      0     0.00     208.67     232.10    2459 …75 WebExtensions
+      0    16.94      70.35   3,295.99    1715 …13 Xorg
+
